@@ -21,7 +21,7 @@ repository               : "lgolowich/lgolowich.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "google_scholar_profile_pic.png"
+  avatar           : "google_scholar_profile_pic.jpg"
   name             : "Louis Golowich"
   pronouns         : # example: "he/him"  
   bio              : "Computer Science PhD Student"
